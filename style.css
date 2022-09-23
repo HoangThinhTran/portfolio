@@ -9,12 +9,12 @@
 }
 .container {
   width: 500px;
-  margin: center;
+  margin: 0 auto;
   position: relative;
 }
 .link {
-  text-decoration:none
-  border: 1px
+  text-decoration: none;
+  border: 1px;
 }
 .footer {
   text-align:center;
