@@ -13,7 +13,9 @@
   position: relative;
 }
 .link {
-  text-decoration:none}
+  text-decoration:none
+  border: 1px
+}
 .footer {
   text-align:center;
   color: #000000;
