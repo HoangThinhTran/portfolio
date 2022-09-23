@@ -8,7 +8,7 @@
   position: absolute;
 }
 .container {
-  width: 500px;
+  align-items: center;
   margin: 0 auto;
   position: relative;
 }
