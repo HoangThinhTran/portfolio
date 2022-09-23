@@ -8,9 +8,8 @@
   position: absolute;
 }
 .container {
-  align-items: center;
-  margin: 0 auto;
-  position: relative;
+  display: flex;
+  justify-content: center;
 }
 .link {
   text-decoration: none;
