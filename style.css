@@ -8,8 +8,8 @@
   position: absolute;
 }
 .container {
-  width:1000px;
-  margin: 0 auto;
+  width: 500px;
+  margin: center;
   position: relative;
 }
 .link {
