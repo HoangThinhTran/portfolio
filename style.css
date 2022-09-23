@@ -1,0 +1,15 @@
+.homepage {
+  font-family: helvetica;
+  font-size:35px;
+  margin-bottom:.5em;
+  text-align:right;
+  float: right;
+  display: block;
+  position: absolute;
+}
+.container {
+  width:2500px;
+  height:1200px;
+  margin: 0 auto;
+  position: relative;
+}
