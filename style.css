@@ -12,20 +12,16 @@
   height: 30px;
   align-items: center;
 }
-.navigation {
+.link {
+  text-decoration: none;
+  border: 1px;
+  text-align: center;
+  background-color: #04AA6D;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-}
-.navigationli {
-  background-color: #04AA6D;
-}
-.link {
-  text-decoration: none;
-  border: 1px;
-  text-align: center;
 }
 .footer {
   text-align: center;
