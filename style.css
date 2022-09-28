@@ -7,6 +7,7 @@
   display: block;
   position: absolute;
 }
+
 .container {
   width: 100px;
   height: 100px;
@@ -14,21 +15,7 @@
   display: flex;
   justify-content: space-around;
 }
-.link {
-  text-decoration: none;
-  border: 1px;
-  text-align: center;
-  background-color: #04AA6D;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  display: inline;
-}
-.li {
-  float: left;
-}
+
 .footer {
   text-align: center;
   color: #000000;
