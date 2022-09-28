@@ -8,6 +8,11 @@
   position: absolute;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
 .container {
   width: 100px;
   height: 100px;
