@@ -12,7 +12,7 @@
   width: 100px;
   height: 100px;
   align-items: center;
-  display: flex;
+  position: absolute;
   justify-content: space-around;
 }
 
